@@ -1,2 +1,2 @@
 # coral-contracts
-coral-contracts
+coral finance contracts
